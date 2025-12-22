@@ -10,7 +10,7 @@ For marketing teams, campaign effectiveness directly influences customer acquisi
 This analysis aimed to identify high-performing channels, uncover drivers of conversion, and provide actionable insights to optimise future campaigns and improve overall marketing ROAS.
 
 ## Methodology:
-1. 
+1. Created database Marketing_db and a table "marketing_campaigns" using MySQL.
 
 ## Skills:
 - 
