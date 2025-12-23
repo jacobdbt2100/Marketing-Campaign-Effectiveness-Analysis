@@ -14,6 +14,7 @@ This analysis aimed to identify high-performing channels, uncover drivers of con
 2. Imported CSV file and populated table.
 3. Dropped two columns irrelevant for analysis - "Campaign_ID" not required since the analysis involved only a single table, while "Quarter" is wrong compared to the "Date" column in the same table, with the view to create a new "Quarter" if required.
 4. A VIEW "fact_marketing_campaigns" was created from the cleaned "marketing_campaigns" table.
+5. The "fact_marketing_campaigns" VIEW was imported into Power BI for visualization.
 
 ## Skills:
 - 
