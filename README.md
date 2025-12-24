@@ -17,7 +17,8 @@ This analysis aimed to identify high-performing channels, uncover drivers of con
 5. The "fact_marketing_campaigns" VIEW was imported into Power BI for visualization.
 
 ## Skills:
-- 
+- SQL: schema design, data extraction, transformation, modelling, and loading, MySQL
+- Power BI: DAX measures, data visualization
 
 ## Insights & Recommendation:
 ### 1. 
