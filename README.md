@@ -21,7 +21,7 @@ This analysis aimed to identify high-performing channels, uncover drivers of con
 - Power BI: DAX measures, data visualization
 
 ## Insights & Recommendation:
-### 1. 
+### 1. Search Engine and Social Media show promising results for ROAS. More Ads budget should be invested here.
 
 ### 2. 
 
