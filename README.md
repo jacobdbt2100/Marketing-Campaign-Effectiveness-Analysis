@@ -33,7 +33,7 @@ This analysis aimed to identify high-performing channels, uncover drivers of con
 
 ___
 
-### `Additional Notes`
+### `Additional Materials`
 
 #### `Marketing Campaign Effectiveness Report:`
 
