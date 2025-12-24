@@ -23,7 +23,7 @@ This analysis aimed to identify high-performing channels, uncover drivers of con
 ## Insights & Recommendation:
 ### 1. Search Engine and Social Media show promising results for ROAS. More Ads budget should be invested here.
 
-### 2. 
+### 2. The Revenue in March and August when higher despite dips in the Ads Spend for these months. The Ad creatives might have played a role in this gains and should be replicated.
 
 ### 3. 
   
