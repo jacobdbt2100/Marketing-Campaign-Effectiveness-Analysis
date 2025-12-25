@@ -25,7 +25,7 @@ This analysis aimed to identify high-performing channels, uncover drivers of con
 
 ### 2. The Revenue in March and August when higher despite dips in the Ads Spend for these months. The Ad creatives might have played a role in this gains and should be replicated.
 
-### 3. 
+### 3. The Eastern region show promising result for ROAS. More Ads budget should be invested here.
   
 ### 4. 
 
