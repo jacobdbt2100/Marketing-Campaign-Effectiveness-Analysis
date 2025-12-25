@@ -29,7 +29,7 @@ This analysis aimed to identify high-performing channels, uncover drivers of con
   
 ### 4. Conversion rate for the Northern Region looks quite impressive compared to it's lowest click-through rate amongst regions. More Ad creatives directed at the Northern region might improve conversions greatly.
 
-### 5. 
+### 5. Ads Revenue dipped between April and June 2024. This is worth investigating to avert repeating possible mistakes in future campaigns.
 
 ___
 
