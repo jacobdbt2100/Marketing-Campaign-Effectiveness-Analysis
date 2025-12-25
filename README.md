@@ -27,7 +27,7 @@ This analysis aimed to identify high-performing channels, uncover drivers of con
 
 ### 3. The Eastern region show promising result for ROAS. More Ads budget should be invested here.
   
-### 4. 
+### 4. Conversion rate for the Northern Region looks quite impressive compared to it's lowest click-through rate amongst regions. More Ad creatives directed at the Northern region might improve conversions greatly.
 
 ### 5. 
 
